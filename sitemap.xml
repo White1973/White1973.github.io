@@ -2,37 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://white1973.github.io/tags/index.html</loc>
+    <loc>https://white1973.github.io/music/index.html</loc>
     
-    <lastmod>2020-04-12T13:10:54.456Z</lastmod>
+    <lastmod>2020-04-13T10:00:59.407Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://white1973.github.io/about/index.html</loc>
+    
+    <lastmod>2020-04-13T09:07:15.552Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://white1973.github.io/categories/index.html</loc>
     
-    <lastmod>2020-04-12T13:10:33.977Z</lastmod>
+    <lastmod>2020-04-13T09:06:37.235Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://white1973.github.io/2020/04/12/lingdong/</loc>
+    <loc>https://white1973.github.io/2020/04/13/lingdong/</loc>
     
-    <lastmod>2020-04-12T13:09:48.342Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://white1973.github.io/link/index.html</loc>
-    
-    <lastmod>2020-04-12T13:07:45.581Z</lastmod>
+    <lastmod>2020-04-13T08:59:46.611Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://white1973.github.io/2020/04/12/hello-world1/</loc>
     
-    <lastmod>2020-04-12T11:11:30.446Z</lastmod>
+    <lastmod>2020-04-13T08:28:44.230Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://white1973.github.io/link/index.html</loc>
+    
+    <lastmod>2020-04-13T08:20:40.392Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://white1973.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-04-13T08:12:47.889Z</lastmod>
     
   </url>
   
