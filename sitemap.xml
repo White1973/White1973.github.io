@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://white1973.github.io/link/index.html</loc>
+    
+    <lastmod>2020-04-14T02:30:03.116Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://white1973.github.io/music/index.html</loc>
     
-    <lastmod>2020-04-13T10:00:59.407Z</lastmod>
+    <lastmod>2020-04-13T14:28:09.918Z</lastmod>
     
   </url>
   
@@ -33,13 +40,6 @@
     <loc>https://white1973.github.io/2020/04/12/hello-world1/</loc>
     
     <lastmod>2020-04-13T08:28:44.230Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://white1973.github.io/link/index.html</loc>
-    
-    <lastmod>2020-04-13T08:20:40.392Z</lastmod>
     
   </url>
   
