@@ -29,14 +29,14 @@ My research interest：
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
+# 🎓 Education
 - *2024.01 -*, The Hong Kong University of Science and Technology, HongKong, PhD <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HKUST.png" width="23pt"></a>
 - *2019.09 - 2022.04*, Northwestern Polytechnic University, Xi'an, Master <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/NWPU.png" width="23pt"></a> 
 - *2015.09 - 2019.06*, China University of Geosciences, Wuhan, Bachelor  <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/CUG.png" width="20pt"></a>
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 📝 Publication
 
 ### 英文
 ---
