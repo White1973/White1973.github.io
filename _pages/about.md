@@ -41,7 +41,7 @@ My research interest：
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div> 
 <div class='paper-box-text' markdown="1"> -->
 
--	`Sikai Bai`, Junyu Gao, Qi Wang, and Xuelong Li, "Multi-domain Synchronous Refinement Network for Unsupervised Cross-Domain Person Re-IdentificationProc." *IEEE International Conference on Multimedia and Expo (ICME), pp. 1-6, 2021.* 
+-	`Sikai Bai`, Junyu Gao, Qi Wang, and Xuelong Li, "Multi-domain Synchronous Refinement Network for Unsupervised Cross-Domain Person Re-Identification" *Proc. IEEE International Conference on Multimedia and Expo (ICME), pp. 1-6, 2021.* 
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9428276)
 
 </div>
