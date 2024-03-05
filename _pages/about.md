@@ -20,9 +20,7 @@ redirect_from:
 👋👋Hi, I'm Sikai Bai. Now, I'm pursuing my Ph.D. in the Department of Computer Science and Engineering ([CSE](https://cse.hkust.edu.hk/)) at the Hong Kong University of Science and Technology ([HKUST, 香港科技大学](https://hkust.edu.hk/)), supervised by Prof. [Song Guo](https://cse.hkust.edu.hk/~songguo/) in [PEILab](https://peilab.netlify.app/). 
 
 Before that, I received my **Master** degree in Artificial Intelligence, Optics, and Electronics ([iOPEN](http://iopen.nwpu.edu.cn/)), Northwestern Polytechnical University ([NWPU, 西北工业大学](https://www.nwpu.edu.cn/)), supervised by [Qi Wang](https://crabwq.github.io/) and [Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ) professors. Also, I received my **Bachelor** degree at [School of Information Engineering](https://xgxy.cug.edu.cn/), [China University of Geosciences (Wuhan) 中国地质大学](https://www.cug.edu.cn/) in 2019.
-During this period, my research areas included computer vision, deep learning, and image/video representation learning.
-
-After graduation, I  worked on federated learning research at SenseTime by collaborating with [Weiming Zhuang](https://weiming.me/) and Shuaicheng Li. Then, I was a Research Assistant at The Hong Kong Polytechnic University and collaborated with Dr. [Jie Zhang](https://cugzj.github.io/zhangjie.github.io/). If you are interested in me, please send e-mail to me. Thanks a lot!
+During this period, my research areas included computer vision, deep learning, and image/video representation learning. After graduation, I  worked on federated learning research at SenseTime by collaborating with [Weiming Zhuang](https://weiming.me/) and Shuaicheng Li. Then, I was a Research Assistant at The Hong Kong Polytechnic University and collaborated with Dr. [Jie Zhang](https://cugzj.github.io/zhangjie.github.io/). If you are interested in me, please send e-mail to me. Thanks a lot!
 
 Recently, my research interests include：
 - Vision Language Model
