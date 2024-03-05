@@ -19,7 +19,7 @@ redirect_from:
 
 I am a master graduate student of [School of Artificial Intelligence, Optics and Electronics (iOPEN)](https://iopen.nwpu.edu.cn/en/Home.htm) at [Northwestern Polytechnic University](https://en.nwpu.edu.cn/), supervised by [Qi Wang](https://crabwq.github.io/) and [Xuelong Li](https://iopen.nwpu.edu.cn/info/1329/1171.htm) professors, collaborating with [Junyu Gao](https://gjy3035.github.io/). I received Bachelor degree at [School of Information Engineering](https://xgxy.cug.edu.cn/), [China University of Geosciences (Wuhan)](https://www.cug.edu.cn/) in 2019. My research area includes computer vision, deep learning and image/video representation learning.
 
-I  worked on federated learning research at SenseTime by collaborating with [Weiming Zhuang](https://weiming.me/) and Shuaicheng Li. After that, I was a Reasearch Assistant at The Hong Kong Polytechnic University and collaborated with Dr. [Jie Zhang](https://cugzj.github.io/zhangjie.github.io/).  Now, I'm pursuing my PhD degree at The Hong Kong University of Science and Technology. If you are interests in me, please send e-mail to me. Thanks a lot!
+After graduation, I  worked on federated learning research at SenseTime by collaborating with [Weiming Zhuang](https://weiming.me/) and Shuaicheng Li. Then, I was a Reasearch Assistant at The Hong Kong Polytechnic University and collaborated with Dr. [Jie Zhang](https://cugzj.github.io/zhangjie.github.io/).  Now, I'm pursuing my PhD degree at The Hong Kong University of Science and Technology. If you are interests in me, please send e-mail to me. Thanks a lot!
 
 My research interest：
 - Vision Language Model
@@ -43,7 +43,7 @@ My research interest：
 <!-- </div>
 </div> -->
 
--	[<font color=Blue>CVPR'24</font>] `Sikai Bai`, Jie. Zhang, Song. Guo, Shuaicheng Li, Jingcai Guo, Jun Hou, Tao Han, and Xiaocheng Lu, “DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning,” *in Proceedings of Computer Vision and Pattern Recognition (CVPR, CCF-A), 2024.*
+-	[<font color=Blue>CVPR'24</font>] `Sikai Bai`, Jie Zhang, Song. Guo, Shuaicheng Li, Jingcai Guo, Jun Hou, Tao Han, and Xiaocheng Lu, “DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning,” *in Proceedings of Computer Vision and Pattern Recognition (CVPR, CCF-A), 2024.*
 
 -	[<font color=Blue>AAAI'24</font>] `Sikai Bai`, Shuaicheng Li, Weiming Zhuang, Jie Zhang†, Kunlin Yang, Jun Hou, Shuai Yi, shuai zhang and Junyu Gao.
 *in Annual AAAI Conference on Artificial Intelligence (AAAI, CCF-A), 2024.*
@@ -69,5 +69,5 @@ My research interest：
 and Development Competition
 <span class='anchor' id='-gzsx'></span>
 
-# 💻 工作实习
+# 💻 Internships
 - *2022.05 - 2023.01*, Sensetime, Shanghai
