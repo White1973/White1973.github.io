@@ -71,7 +71,7 @@ and Development Competition
 - English: IELTS 6.5
 - Programming Skills: Python, C/C++, Pytorch, Tensorflow
 - Computer Basics: Computer Network, Operating System, Database (Mysql, Redis)
-- Typesetting & Graphing: TEX and friends(e.g., LATEX, Highcharts)
+- Typesetting and Graphing: TEX and friends(e.g., LATEX, Highcharts)
 - Other skills: Docker, Linux, Distributed Systems, Multi-threaded Programming, etc.
 
 # 💻 Internships
