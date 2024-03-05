@@ -36,6 +36,13 @@ My research interest：
  
 <span class='anchor' id='-lwzl'></span>
 
+# 🛠 Skills
+- English: IELTS 6.5
+- Programming Skills: Python, C/C++, Pytorch, Tensorflow
+- Computer Basics: Computer Network, Operating System, Database (Mysql, Redis)
+- Typesetting & Graphing: TEX and friends(e.g., LATEX, Highcharts)
+- Other skills: Docker, Linux, Distributed Systems, Multi-threaded Programming, etc.
+
 # 📝 Publication
 ---
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div> 
@@ -54,8 +61,6 @@ My research interest：
 
 -	[<font color=Blue>ICPR'21</font>] `Sikai Bai`, Qi Wang, and Xuelong Li. "Mfi: Multi-range feature interchange for video action recognition." *In 2020 25th International Conference on Pattern Recognition (ICPR, CCF-C), pp. 6664-6671, 2021.*
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9412124)
-
-
 
 <span class='anchor' id='-ryjx'></span>
 
