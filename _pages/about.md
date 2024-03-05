@@ -62,8 +62,6 @@ My research interest：
 -	[<font color=Blue>ICPR'21</font>] `Sikai Bai`, Qi Wang, and Xuelong Li. "Mfi: Multi-range feature interchange for video action recognition." *In 2020 25th International Conference on Pattern Recognition (ICPR, CCF-C), pp. 6664-6671, 2021.*
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9412124)
 
-
-
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Honors and Awards
