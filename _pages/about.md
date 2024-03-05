@@ -17,11 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master graduate student of [School of Artificial Intelligence, Optics and Electronics (iOPEN)](https://iopen.nwpu.edu.cn/en/Home.htm) at [Northwestern Polytechnic University](https://en.nwpu.edu.cn/), supervised by [Qi Wang](https://crabwq.github.io/) and [Xuelong Li](https://iopen.nwpu.edu.cn/info/1329/1171.htm) professors, collaborating with [Junyu Gao](https://gjy3035.github.io/). I received Bachelor degree at [School of Information Engineering](https://xgxy.cug.edu.cn/), [China University of Geosciences (Wuhan)](https://www.cug.edu.cn/) in 2019. My research area includes computer vision, deep learning and image/video representation learning.
+👋👋Hi, I'm Sikai Bai. Now, I'm pursuing my Ph.D. in the Department of Computer Science and Engineering ([CSE](https://cse.hkust.edu.hk/)) at the Hong Kong University of Science and Technology ([HKUST, 香港科技大学](https://hkust.edu.hk/)), supervised by Prof. [Song Guo](https://cse.hkust.edu.hk/~songguo/) in [PEILab](https://peilab.netlify.app/). 
 
-After graduation, I  worked on federated learning research at SenseTime by collaborating with [Weiming Zhuang](https://weiming.me/) and Shuaicheng Li. Then, I was a Reasearch Assistant at The Hong Kong Polytechnic University and collaborated with Dr. [Jie Zhang](https://cugzj.github.io/zhangjie.github.io/).  Now, I'm pursuing my PhD degree at The Hong Kong University of Science and Technology. If you are interests in me, please send e-mail to me. Thanks a lot!
+Before that, I received my **Master** degree in Artificial Intelligence, Optics, and Electronics ([iOPEN](http://iopen.nwpu.edu.cn/)), Northwestern Polytechnical University ([NWPU, 西北工业大学](https://www.nwpu.edu.cn/)), supervised by [Qi Wang](https://crabwq.github.io/) and [Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ) professors. Also, I received my **Bachelor** degree at [School of Information Engineering](https://xgxy.cug.edu.cn/), [China University of Geosciences (Wuhan) 中国地质大学](https://www.cug.edu.cn/) in 2019.
+During this period, my research areas included computer vision, deep learning, and image/video representation learning.
 
-My research interest：
+After graduation, I  worked on federated learning research at SenseTime by collaborating with [Weiming Zhuang](https://weiming.me/) and Shuaicheng Li. Then, I was a Research Assistant at The Hong Kong Polytechnic University and collaborated with Dr. [Jie Zhang](https://cugzj.github.io/zhangjie.github.io/). If you are interested in me, please send e-mail to me. Thanks a lot!
+
+Recently, my research interests include：
 - Vision Language Model
 - Federated Learning
 - Computer Vision
@@ -75,4 +78,5 @@ and Development Competition
 - Other skills: Docker, Linux, Distributed Systems, Multi-threaded Programming, etc.
 
 # 💻 Internships
+- *2023.01 - 2023.08*, The Hong Kong Polytechnic University, HongKong
 - *2022.05 - 2023.01*, Sensetime, Shanghai
