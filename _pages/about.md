@@ -44,16 +44,16 @@ Recently, my research interests include：
 <!-- </div>
 </div> -->
 
--	[<font color=Blue>CVPR'24</font>] `Sikai Bai`, Jie Zhang, Song Guo, Shuaicheng Li, Jingcai Guo, Jun Hou, Tao Han, and Xiaocheng Lu, “DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning,” *in Proceedings of Computer Vision and Pattern Recognition (CVPR, CCF-A), 2024.*
+-	[<font color=Blue>CVPR'24</font>] `Sikai Bai`, Jie Zhang, Song Guo, Shuaicheng Li, Jingcai Guo, Jun Hou, Tao Han, and Xiaocheng Lu, “DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning”, *in Proceedings of Computer Vision and Pattern Recognition (CVPR, CCF-A), 2024.*
 
--	[<font color=Blue>AAAI'24</font>] `Sikai Bai`, Shuaicheng Li, Weiming Zhuang, Jie Zhang, Kunlin Yang, Jun Hou, Shuai Yi, Shuai Zhang and Junyu Gao.
+-	[<font color=Blue>AAAI'24</font>] `Sikai Bai`, Shuaicheng Li, Weiming Zhuang, Jie Zhang, Kunlin Yang, Jun Hou, Shuai Yi, Shuai Zhang, and Junyu Gao. "Combating Data Imbalances in Federated Semi-supervised Learning with Dual Regulators",
 *in Annual AAAI Conference on Artificial Intelligence (AAAI, CCF-A), 2024.*
 [[PDF]](https://arxiv.org/abs/2307.05358)
 
--	[<font color=Blue>ICME'21</font>] `Sikai Bai`, Junyu Gao, Qi Wang, and Xuelong Li, "Multi-domain Synchronous Refinement Network for Unsupervised Cross-Domain Person Re-Identification" *Proc. IEEE International Conference on Multimedia and Expo (ICME, CCF-B), pp. 1-6, 2021.* 
+-	[<font color=Blue>ICME'21</font>] `Sikai Bai`, Junyu Gao, Qi Wang, and Xuelong Li, "Multi-domain Synchronous Refinement Network for Unsupervised Cross-Domain Person Re-Identification", *Proc. IEEE International Conference on Multimedia and Expo (ICME, CCF-B), pp. 1-6, 2021.* 
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9428276)
 
--	[<font color=Blue>ICPR'21</font>] `Sikai Bai`, Qi Wang, and Xuelong Li. "Mfi: Multi-range feature interchange for video action recognition." *In 2020 25th International Conference on Pattern Recognition (ICPR, CCF-C), pp. 6664-6671, 2021.*
+-	[<font color=Blue>ICPR'21</font>] `Sikai Bai`, Qi Wang, and Xuelong Li. "Mfi: Multi-range feature interchange for video action recognition", *In 2020 25th International Conference on Pattern Recognition (ICPR, CCF-C), pp. 6664-6671, 2021.*
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9412124)
 
 <span class='anchor' id='-ryjx'></span>
