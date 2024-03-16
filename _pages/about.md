@@ -77,5 +77,5 @@ and Development Competition
 - Other skills: Docker, Linux, Distributed Systems, Multi-threaded Programming, etc.
 
 # 💻 Internships
-- *2023.01 - 2023.08*, The Hong Kong Polytechnic University, HongKong
-- *2022.05 - 2023.01*, Sensetime, Shanghai
+- *2023.01 - 2023.08*, Research Assistant, The Hong Kong Polytechnic University, HongKong
+- *2022.05 - 2023.01*, Intern, Sensetime, Shanghai
