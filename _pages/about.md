@@ -44,7 +44,7 @@ Recently, my research interests include：
 <!-- </div>
 </div> -->
 
--	[<font color=Blue>CVPR'24</font>] `Sikai Bai`, Jie Zhang, Song Guo, Shuaicheng Li, Jingcai Guo, Jun Hou, Tao Han, and Xiaocheng Lu, “DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning”, *in Proceedings of Computer Vision and Pattern Recognition (CVPR, CCF-A), 2024.*
+-	[<font color=Blue>CVPR'24</font>] `Sikai Bai`, Jie Zhang, Shuaicheng Li, Song Guo, Jingcai Guo, Jun Hou, Tao Han, and Xiaocheng Lu, “DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning”, *in Proceedings of Computer Vision and Pattern Recognition (CVPR, CCF-A), 2024.*
 [[PDF]](https://arxiv.org/abs/2403.08506)
 
 -	[<font color=Blue>AAAI'24</font>] `Sikai Bai`, Shuaicheng Li, Weiming Zhuang, Jie Zhang, Kunlin Yang, Jun Hou, Shuai Yi, Shuai Zhang, and Junyu Gao. "Combating Data Imbalances in Federated Semi-supervised Learning with Dual Regulators",
