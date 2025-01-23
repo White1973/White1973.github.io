@@ -43,6 +43,7 @@ Recently, my research interests include：
 <div class='paper-box-text' markdown="1"> -->
 <!-- </div>
 </div> -->
+-	[<font color=Blue>CVPR'24</font>] Haoxi Li, Xueyang Tang, Jie Zhang, Song Guo, Sikai Bai, Peiran Dong, and Yue Yu, “Causally Motivated Sycophancy Mitigation for Large Language Models”, the 13th International Conference on Learning Representations (ICLR, CCF-A), 2025.*
 
 -	[<font color=Blue>CVPR'24</font>] `Sikai Bai`, Jie Zhang, Shuaicheng Li, Song Guo, Jingcai Guo, Jun Hou, Tao Han, and Xiaocheng Lu, “DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning”, *in Proceedings of Computer Vision and Pattern Recognition (CVPR, CCF-A), 2024.*
 [[PDF]](https://arxiv.org/abs/2403.08506)
