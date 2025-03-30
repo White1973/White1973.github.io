@@ -50,7 +50,7 @@ Recently, my research interests include：
 
 -	[<font color=Blue>AAAI'24</font>] `Sikai Bai`, Shuaicheng Li, Weiming Zhuang, Jie Zhang, Kunlin Yang, Jun Hou, Shuai Yi, Shuai Zhang, and Junyu Gao. "Combating Data Imbalances in Federated Semi-supervised Learning with Dual Regulators",
 *in Annual AAAI Conference on Artificial Intelligence (AAAI, CCF-A), 2024.*
-[[PDF]](https://arxiv.org/abs/2307.05358)[[Code]]([https://arxiv.org/abs/2403.08506](https://github.com/White1973/FedDure))
+[[PDF]](https://arxiv.org/abs/2307.05358)[[Code]](https://github.com/White1973/FedDure)
 
 -	[<font color=Blue>ICME'21</font>] `Sikai Bai`, Junyu Gao, Qi Wang, and Xuelong Li, "Multi-domain Synchronous Refinement Network for Unsupervised Cross-Domain Person Re-Identification", *Proc. IEEE International Conference on Multimedia and Expo (ICME, CCF-B), pp. 1-6, 2021.* 
 [[PDF]](https://ieeexplore.ieee.org/abstract/document/9428276)
