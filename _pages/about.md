@@ -43,7 +43,9 @@ Recently, my research interests include：
 <div class='paper-box-text' markdown="1"> -->
 <!-- </div>
 </div> -->
--	[<font color=Blue>ICLR'25</font>] Haoxi Li, Xueyang Tang, Jie Zhang, Song Guo, `Sikai Bai`, Peiran Dong, and Yue Yu, “Causally Motivated Sycophancy Mitigation for Large Language Models”, *the 13th International Conference on Learning Representations (ICLR, CCF-A), 2025.*
+-	[<font color=Blue>NeurIPS'25</font>] `Sikai Bai`, Jie ZHANG, Haoxi Li, Zicong Hong, Song Guo, “DiEP: Adaptive Mixture-of-Experts Compression through Differentiable Expert Pruning”, *The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS, CCF-A), 2025.*
+
+-	[<font color=Blue>ICLR'25</font>] Haoxi Li, Xueyang Tang, Jie Zhang, Song Guo, `Sikai Bai`, Peiran Dong, and Yue Yu, “Causally Motivated Sycophancy Mitigation for Large Language Models”, *The 13th International Conference on Learning Representations (ICLR, CCF-A), 2025.*
 [[PDF]](https://openreview.net/pdf?id=yRKelogz5i)
 
 -	[<font color=Blue>CVPR'24</font>] `Sikai Bai`, Jie Zhang, Shuaicheng Li, Song Guo, Jingcai Guo, Jun Hou, Tao Han, and Xiaocheng Lu, “DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning”, *in Proceedings of Computer Vision and Pattern Recognition (CVPR, CCF-A), 2024.*
@@ -81,3 +83,4 @@ and Development Competition
 # 💻 Internships
 - *2023.01 - 2023.08*, Research Assistant, The Hong Kong Polytechnic University, HongKong
 - *2022.05 - 2023.01*, Intern, Sensetime, Shanghai
+
