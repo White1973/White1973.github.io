@@ -44,6 +44,7 @@ Recently, my research interests include：
 <!-- </div>
 </div> -->
 -	[<font color=Blue>NeurIPS'25</font>] `Sikai Bai`, Haoxi Li, Jie ZHANG, Zicong Hong, Song Guo, “DiEP: Adaptive Mixture-of-Experts Compression through Differentiable Expert Pruning”, *The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS, CCF-A), 2025.*
+[[PDF]](https://arxiv.org/abs/2509.16105)
 
 -	[<font color=Blue>ICLR'25</font>] Haoxi Li, Xueyang Tang, Jie Zhang, Song Guo, `Sikai Bai`, Peiran Dong, and Yue Yu, “Causally Motivated Sycophancy Mitigation for Large Language Models”, *The 13th International Conference on Learning Representations (ICLR, CCF-A), 2025.*
 [[PDF]](https://openreview.net/pdf?id=yRKelogz5i)
@@ -65,12 +66,7 @@ Recently, my research interests include：
 
 # 🏅 Honors and Awards
 - *2020.11* `Second Prize` of Academic Scholarship, Northwestern Polytechnic University  
-- *2019.09* `First Prize` of Academic Scholarship, Northwestern Polytechnic University
-- *2017.10* `National Encouragement Scholarship`, Ministry of Education
-- *2017.08* `Second runner-up` of SmuroSot Middle League on Federation of International Robot-soccer Association
-(FIRA)
-- *2017.08* `Second runner-up` of National University Software Defined Network (SDN) Application Innovation
-and Development Competition
+- *2017.08* `Second runner-up` of SmuroSot Middle League on Federation of International Robot-soccer Association (FIRA)
 <span class='anchor' id='-gzsx'></span>
 
 # 🛠 Skills
@@ -83,5 +79,6 @@ and Development Competition
 # 💻 Internships
 - *2023.01 - 2023.08*, Research Assistant, The Hong Kong Polytechnic University, HongKong
 - *2022.05 - 2023.01*, Intern, Sensetime, Shanghai
+
 
 
