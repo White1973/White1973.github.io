@@ -65,8 +65,7 @@ Recently, my research interests include：
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Honors and Awards
-- *2020.11* `Second Prize` of Academic Scholarship, Northwestern Polytechnic University  
-- *2017.08* `Second runner-up` of SmuroSot Middle League on Federation of International Robot-soccer Association (FIRA)
+- *2017.08* `Second runner-up` of SmuroSot Middle League on Federation of International Robot-soccer Association (FIRA), Kaohsiung
 <span class='anchor' id='-gzsx'></span>
 
 # 🛠 Skills
@@ -79,6 +78,7 @@ Recently, my research interests include：
 # 💻 Internships
 - *2023.01 - 2023.08*, Research Assistant, The Hong Kong Polytechnic University, HongKong
 - *2022.05 - 2023.01*, Intern, Sensetime, Shanghai
+
 
 
 
