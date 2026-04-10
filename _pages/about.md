@@ -44,6 +44,7 @@ Recently, my research interests include：
 <!-- </div>
 </div> -->
 -	[<font color=Blue>ACL'26</font>] `Sikai Bai`, Haoxi Li, Jie ZHANG, Yongjiang Liu, Song Guo, “TTVS: Boosting Self-Exploring Reinforcement Learning via Test-time Variational Synthesis”, *Association for Computational Linguistics (ACL), 2026.*
+[[PDF]](https://arxiv.org/html/2604.08468v1)
 
 -	[<font color=Blue>NeurIPS'25</font>] `Sikai Bai`, Haoxi Li, Jie ZHANG, Zicong Hong, Song Guo, “DiEP: Adaptive Mixture-of-Experts Compression through Differentiable Expert Pruning”, *The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS, CCF-A), 2025.*
 [[PDF]](https://arxiv.org/abs/2509.16105), [[Code]](https://github.com/White1973/DiEP)
