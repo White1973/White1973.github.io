@@ -23,9 +23,11 @@ Before that, I received my **Master** degree in Artificial Intelligence, Optics,
 During this period, my research areas included computer vision, deep learning, and image/video representation learning. After graduation, I  worked on federated learning research at SenseTime by collaborating with [Weiming Zhuang](https://weiming.me/) and Shuaicheng Li. Then, I was a Research Assistant at The Hong Kong Polytechnic University and collaborated with Dr. [Jie Zhang](https://cugzj.github.io/zhangjie.github.io/). If you are interested in me, please send e-mail to me. Thanks a lot!
 
 Recently, my research interests include：
-- Vision Language Model
-- Federated Learning
-- Computer Vision
+- Large Reasoning Models: Efficient reasoning, mixture-of-experts, and reliable model behavior.
+- Vision-Language Agents: World modeling, multimodal reasoning, and multi-turn Interaction.
+- Agentic Reinforcement Learning: Self-exploration, test-time adaptation, recursive self-improvement.
+
+
 
 
 <span class='anchor' id='-xl'></span>
@@ -44,7 +46,7 @@ Recently, my research interests include：
 <!-- </div>
 </div> -->
 -	[<font color=Blue>ICML'26</font>] Haoxi Li, Qinglin Hou, Jianfei Ma, Jinxiang Lai, Tao Han, `Sikai Bai`, Jingcai Guo, Jie Zhang, Song Guo, “What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity”, *Association for Computational Linguistics (ACL), 2026.*
-[[PDF]](https://arxiv.org/html/2604.08468v1)
+[[PDF]](https://arxiv.org/html/2605.03782)
 
 -	[<font color=Blue>ACL'26</font>] `Sikai Bai`, Haoxi Li, Jie ZHANG, Yongjiang Liu, Song Guo, “TTVS: Boosting Self-Exploring Reinforcement Learning via Test-time Variational Synthesis”, *Association for Computational Linguistics (ACL), 2026.*
 [[PDF]](https://arxiv.org/html/2604.08468v1)
@@ -82,7 +84,7 @@ Recently, my research interests include：
 - Other skills: Docker, Linux, Distributed Systems, Multi-threaded Programming, etc.
 
 # 💻 Internships
-- *2026.01 - 2023.09*, Research Intern, Bailing Ant Group
+- *2026.01 - 2026.09*, Research Intern, Bailing Ant Group
 - *2023.01 - 2023.08*, Research Assistant, The Hong Kong Polytechnic University
 - *2022.05 - 2023.01*, Algorithm Intern, Sensetime
 
