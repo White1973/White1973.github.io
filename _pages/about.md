@@ -45,7 +45,7 @@ Recently, my research interests include：
 <div class='paper-box-text' markdown="1"> -->
 <!-- </div>
 </div> -->
--	[<font color=Blue>ICML'26</font>] Haoxi Li, Qinglin Hou, Jianfei Ma, Jinxiang Lai, Tao Han, `Sikai Bai`, Jingcai Guo, Jie Zhang, Song Guo, “What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity”, *Association for Computational Linguistics (ACL), 2026.*
+-	[<font color=Blue>ICML'26</font>] Haoxi Li, Qinglin Hou, Jianfei Ma, Jinxiang Lai, Tao Han, `Sikai Bai`, Jingcai Guo, Jie Zhang, Song Guo, “What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity”, *International Conference on Machine Learning (ICML), 2026.*
 [[PDF]](https://arxiv.org/html/2605.03782)
 
 -	[<font color=Blue>ACL'26</font>] `Sikai Bai`, Haoxi Li, Jie ZHANG, Yongjiang Liu, Song Guo, “TTVS: Boosting Self-Exploring Reinforcement Learning via Test-time Variational Synthesis”, *Association for Computational Linguistics (ACL), 2026.*
